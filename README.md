@@ -13,7 +13,7 @@
   <img align="center" alt="Juann-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Juann-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Juann-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Juann-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  **<img align="right" alt="Juann-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">**
 </div>
 <!--
 **juannBrandao/JuannBrandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
