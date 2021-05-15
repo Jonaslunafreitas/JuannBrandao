@@ -10,6 +10,7 @@
   <img align="center" alt="Juann-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Juann-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Juann-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Juann-SCSS" height="30" width="40" src="https://icongr.am/devicon/sass-original.svg?size=126&color=2c0707">
 </div>
  
    ##
